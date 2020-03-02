@@ -1,0 +1,9 @@
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\bin\Debug\Chapter1.exe
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\bin\Debug\Chapter1.pdb
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.csprojAssemblyReference.cache
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.Form1.resources
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.Properties.Resources.resources
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.csproj.GenerateResource.cache
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.exe
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Chapter1\obj\Debug\Chapter1.pdb

@@ -1,0 +1,8 @@
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\bin\Debug\Project.exe.config
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\bin\Debug\Project.exe
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\bin\Debug\Project.pdb
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\obj\Debug\Project.Form1.resources
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\obj\Debug\Project.Properties.Resources.resources
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\obj\Debug\Project.exe
+E:\3 C#\SOURCE\STUDY\WinFormInAction\Chapter1\Project\obj\Debug\Project.pdb
